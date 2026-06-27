@@ -10,7 +10,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+React+Native+%7C+Angular;AWS+Cloud+Engineer;Kafka+Event-Driven+Architecture;AI+%26+LLM+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+React+Native+%7C+Angular;AWS+Cloud+Engineer;Kafka+Event-Driven+Architecture;AI+%26+LLM+Integration+Specialist)](https://git.io/typing-svg)
 
 <br>
 
